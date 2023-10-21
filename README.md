@@ -22,11 +22,13 @@
   ## Motivation: 
   I wanted to make an application that helped the user create a high quality README file.
   ## Problems: 
-  I discovered at times struggling to create an effective README file. I constantly had to revert back to older README files to assist in writing one for my current application.
+  I discovered at times struggling to create an effective README file. I constantly had to revert back to older README files to assist in writing one for my      current application.
   ## Solution: 
   Creating this application prompts questions in a users console that guides a user to a well thought out and quality README file for each individual application.
   ## Usage: 
-  Open site from provide GitHub access below. View the usage video as need as a tutorial. 
+  Open site from provide GitHub access below. View the usage video as need as a tutorial.
+  ![Screenshot 2023-10-21 at 4 50 24 PM](https://github.com/GrassHopper12345/readMeGenerator/assets/132722257/19f2b179-195f-4f0f-bf26-d43ba61bf8b4)
+
   ## Constributions: 
   None
   ## Testing: 
