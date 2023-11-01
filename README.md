@@ -3,15 +3,15 @@
   #Title: README Generator
 
   ## Table of Contents:
-  - Descriptions(#description)
-  - Installation(#installation)
-  - Motivation(#motivation)
-  - Problems(#problems)
-  - Solution(#solution)
-  - Usage(#usage)
-  - Contributions(#contributions)
-  - Testing(#testing)
-  - Questions(#questions)
+  - [Descriptions](#description)
+  - [Installation](#installation)
+  - [Motivation](#motivation)
+  - [Problems](#problems)
+  - [Solution](#solution)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
+  - [Testing](#testing)
+  - [Questions](#questions)
 
 
 
