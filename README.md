@@ -34,5 +34,5 @@
   ## Testing: 
   None
   ## Questions: 
-    - Github: GrassHopper12345, (https://github.com/GrassHopper12345)
-    - Email: Brian.hopper@live.com, (Brian.hopper@live.com)
+    - Github: [GrassHopper12345](https://github.com/GrassHopper12345)
+    - Email: [Brian hopper](Brian.hopper@live.com)
